@@ -1,0 +1,13 @@
+src/data/*.*
+src/result/*.*
+data/*.*
+result/*.*
+src/*.pem
+src/*.key
+*.pem
+*.key
+node_modules
+.idea
+.env
+gitcommitpush.bat
+.git-credentials

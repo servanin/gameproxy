@@ -1,0 +1,26 @@
+{
+  "name": "gameproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servanin/gameproxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servanin/gameproxy/issues"
+  },
+  "homepage": "https://github.com/servanin/gameproxy#readme",
+  "devDependencies": {
+    "node-forge": "^1.3.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mockttp": "^3.4.0"
+  }
+}
